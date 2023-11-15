@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\bin\Debug\net7.0\Examples002_HalloUser.exe
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\bin\Debug\net7.0\Examples002_HalloUser.deps.json
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\bin\Debug\net7.0\Examples002_HalloUser.runtimeconfig.json
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\bin\Debug\net7.0\Examples002_HalloUser.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\bin\Debug\net7.0\Examples002_HalloUser.pdb
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\obj\Debug\net7.0\Examples002_HalloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\obj\Debug\net7.0\Examples002_HalloUser.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\obj\Debug\net7.0\Examples002_HalloUser.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\obj\Debug\net7.0\Examples002_HalloUser.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\obj\Debug\net7.0\Examples002_HalloUser.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\obj\Debug\net7.0\refint\Examples002_HalloUser.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\obj\Debug\net7.0\Examples002_HalloUser.pdb
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\obj\Debug\net7.0\Examples002_HalloUser.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples002_HalloUser\obj\Debug\net7.0\ref\Examples002_HalloUser.dll
