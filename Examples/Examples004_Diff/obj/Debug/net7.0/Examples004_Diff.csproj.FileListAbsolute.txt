@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\bin\Debug\net7.0\Examples004_Diff.exe
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\bin\Debug\net7.0\Examples004_Diff.deps.json
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\bin\Debug\net7.0\Examples004_Diff.runtimeconfig.json
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\bin\Debug\net7.0\Examples004_Diff.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\bin\Debug\net7.0\Examples004_Diff.pdb
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\obj\Debug\net7.0\Examples004_Diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\obj\Debug\net7.0\Examples004_Diff.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\obj\Debug\net7.0\Examples004_Diff.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\obj\Debug\net7.0\Examples004_Diff.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\obj\Debug\net7.0\Examples004_Diff.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\obj\Debug\net7.0\refint\Examples004_Diff.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\obj\Debug\net7.0\Examples004_Diff.pdb
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\obj\Debug\net7.0\Examples004_Diff.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples004_Diff\obj\Debug\net7.0\ref\Examples004_Diff.dll
