@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\bin\Debug\net7.0\Examples005_IF_ELSE.exe
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\bin\Debug\net7.0\Examples005_IF_ELSE.deps.json
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\bin\Debug\net7.0\Examples005_IF_ELSE.runtimeconfig.json
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\bin\Debug\net7.0\Examples005_IF_ELSE.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\bin\Debug\net7.0\Examples005_IF_ELSE.pdb
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\obj\Debug\net7.0\Examples005_IF_ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\obj\Debug\net7.0\Examples005_IF_ELSE.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\obj\Debug\net7.0\Examples005_IF_ELSE.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\obj\Debug\net7.0\Examples005_IF_ELSE.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\obj\Debug\net7.0\Examples005_IF_ELSE.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\obj\Debug\net7.0\refint\Examples005_IF_ELSE.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\obj\Debug\net7.0\Examples005_IF_ELSE.pdb
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\obj\Debug\net7.0\Examples005_IF_ELSE.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples005_IF_ELSE\obj\Debug\net7.0\ref\Examples005_IF_ELSE.dll
