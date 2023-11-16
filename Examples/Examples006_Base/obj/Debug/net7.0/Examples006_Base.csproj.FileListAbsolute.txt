@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\obj\Debug\net7.0\Examples006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\obj\Debug\net7.0\Examples006_Base.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\obj\Debug\net7.0\Examples006_Base.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\obj\Debug\net7.0\Examples006_Base.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\bin\Debug\net7.0\Examples006_Base.exe
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\bin\Debug\net7.0\Examples006_Base.deps.json
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\bin\Debug\net7.0\Examples006_Base.runtimeconfig.json
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\bin\Debug\net7.0\Examples006_Base.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\bin\Debug\net7.0\Examples006_Base.pdb
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\obj\Debug\net7.0\Examples006_Base.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\obj\Debug\net7.0\refint\Examples006_Base.dll
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\obj\Debug\net7.0\Examples006_Base.pdb
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\obj\Debug\net7.0\Examples006_Base.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Examples\Examples\Examples006_Base\obj\Debug\net7.0\ref\Examples006_Base.dll
