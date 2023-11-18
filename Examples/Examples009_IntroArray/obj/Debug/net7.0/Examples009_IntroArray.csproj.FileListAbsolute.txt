@@ -1,0 +1,14 @@
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\bin\Debug\net7.0\Examples009_IntroArray.exe
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\bin\Debug\net7.0\Examples009_IntroArray.deps.json
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\bin\Debug\net7.0\Examples009_IntroArray.runtimeconfig.json
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\bin\Debug\net7.0\Examples009_IntroArray.dll
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\bin\Debug\net7.0\Examples009_IntroArray.pdb
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\obj\Debug\net7.0\Examples009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\obj\Debug\net7.0\Examples009_IntroArray.AssemblyInfoInputs.cache
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\obj\Debug\net7.0\Examples009_IntroArray.AssemblyInfo.cs
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\obj\Debug\net7.0\Examples009_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\obj\Debug\net7.0\Examples009_IntroArray.dll
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\obj\Debug\net7.0\refint\Examples009_IntroArray.dll
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\obj\Debug\net7.0\Examples009_IntroArray.pdb
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\obj\Debug\net7.0\Examples009_IntroArray.genruntimeconfig.cache
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples009_IntroArray\obj\Debug\net7.0\ref\Examples009_IntroArray.dll
