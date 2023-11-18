@@ -1,0 +1,14 @@
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\obj\Debug\net7.0\Examples011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\obj\Debug\net7.0\Examples011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\obj\Debug\net7.0\Examples011_ArrayLibrary.AssemblyInfo.cs
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\obj\Debug\net7.0\Examples011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\bin\Debug\net7.0\Examples011_ArrayLibrary.exe
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\bin\Debug\net7.0\Examples011_ArrayLibrary.deps.json
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\bin\Debug\net7.0\Examples011_ArrayLibrary.runtimeconfig.json
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\bin\Debug\net7.0\Examples011_ArrayLibrary.dll
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\bin\Debug\net7.0\Examples011_ArrayLibrary.pdb
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\obj\Debug\net7.0\Examples011_ArrayLibrary.dll
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\obj\Debug\net7.0\refint\Examples011_ArrayLibrary.dll
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\obj\Debug\net7.0\Examples011_ArrayLibrary.pdb
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\obj\Debug\net7.0\Examples011_ArrayLibrary.genruntimeconfig.cache
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples011_ArrayLibrary\obj\Debug\net7.0\ref\Examples011_ArrayLibrary.dll
