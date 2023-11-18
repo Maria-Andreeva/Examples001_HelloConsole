@@ -1,0 +1,14 @@
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.exe
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.deps.json
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.runtimeconfig.json
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.dll
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.pdb
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.AssemblyInfo.cs
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.dll
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\obj\Debug\net7.0\refint\Examples010_MethodArray.dll
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.pdb
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.genruntimeconfig.cache
+C:\Users\BUSINKA\Desktop\Examples\Examples001_HelloConsole\Examples\Examples010_MethodArray\obj\Debug\net7.0\ref\Examples010_MethodArray.dll
